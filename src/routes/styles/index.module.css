@@ -1,0 +1,10 @@
+.header {
+  margin: 16px 0 24px 0;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 46px;
+  letter-spacing: 0.2px;
+  color: var(--color-neutral-black);
+}

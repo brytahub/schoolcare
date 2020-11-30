@@ -1,0 +1,24 @@
+.table {
+  width: 100%;
+}
+.tableHead {
+  background-color: #fafafa;
+}
+.tableHead tr {
+  height: 60px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: var(--color-neutral-black);
+}
+.tableBody tr {
+  background-color: var(--color-white);
+  height: 50px;
+}
+.tableBody tr td:first-child,
+.tableHead tr th:first-child {
+  padding-left: 24px;
+}
